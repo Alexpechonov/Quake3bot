@@ -1,0 +1,7 @@
+{
+name		War
+funname	^4Manowar
+model		War/Default
+aifile	bots/War_c.c
+arenaLord	1
+}
